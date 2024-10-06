@@ -1,4 +1,4 @@
-# First type "pip install streamlit scikit-learn" into the terminal, or you can't use sklearn
+# If getting sklearn errors, type "pip install streamlit scikit-learn" into the terminal before running the code. 
 
 # Importing necessary libraries
 import pandas as pd
