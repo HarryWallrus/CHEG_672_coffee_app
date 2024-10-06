@@ -1,7 +1,6 @@
 # The coffee_model_training.py requires the following: 
 
-pip install --upgrade pip
-pip install streamlit
+pip install
 pip install streamlit scikit-learn
 
 import pandas as pd
