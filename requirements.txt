@@ -2,4 +2,3 @@ streamlit
 pandas
 numpy
 pickle5
-coffee_model_training.py
